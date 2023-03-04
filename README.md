@@ -28,5 +28,5 @@ La aplicación se puede conectar a una base de datos de mongo db que no requiera
 
 
 ## Notas finales
-- La aplicación usa el framework FastAPI y unvicorn como servidor web.
+- La aplicación usa el framework `FastAPI` y `unvicorn como servidor web.
 - Una vez que el servicio este corriendo correctamente, se puede revisar el path `/docs` para ver la documentación del servicio. Por ejemplo si el servicio esta corriendo de forma local y accesible a través del puerto `8080`, podemos acceder a la url http://localhost:8080/docs
